@@ -1,0 +1,16 @@
+/home/edgar/RiderProjects/Task/three/bin/Debug/net5.0/three
+/home/edgar/RiderProjects/Task/three/bin/Debug/net5.0/three.deps.json
+/home/edgar/RiderProjects/Task/three/bin/Debug/net5.0/three.runtimeconfig.json
+/home/edgar/RiderProjects/Task/three/bin/Debug/net5.0/three.runtimeconfig.dev.json
+/home/edgar/RiderProjects/Task/three/bin/Debug/net5.0/three.dll
+/home/edgar/RiderProjects/Task/three/bin/Debug/net5.0/ref/three.dll
+/home/edgar/RiderProjects/Task/three/bin/Debug/net5.0/three.pdb
+/home/edgar/RiderProjects/Task/three/obj/Debug/net5.0/three.csproj.AssemblyReference.cache
+/home/edgar/RiderProjects/Task/three/obj/Debug/net5.0/three.GeneratedMSBuildEditorConfig.editorconfig
+/home/edgar/RiderProjects/Task/three/obj/Debug/net5.0/three.AssemblyInfoInputs.cache
+/home/edgar/RiderProjects/Task/three/obj/Debug/net5.0/three.AssemblyInfo.cs
+/home/edgar/RiderProjects/Task/three/obj/Debug/net5.0/three.csproj.CoreCompileInputs.cache
+/home/edgar/RiderProjects/Task/three/obj/Debug/net5.0/three.dll
+/home/edgar/RiderProjects/Task/three/obj/Debug/net5.0/ref/three.dll
+/home/edgar/RiderProjects/Task/three/obj/Debug/net5.0/three.pdb
+/home/edgar/RiderProjects/Task/three/obj/Debug/net5.0/three.genruntimeconfig.cache

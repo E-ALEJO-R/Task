@@ -1,0 +1,16 @@
+/home/edgar/RiderProjects/Task/one/bin/Debug/net5.0/one
+/home/edgar/RiderProjects/Task/one/bin/Debug/net5.0/one.deps.json
+/home/edgar/RiderProjects/Task/one/bin/Debug/net5.0/one.runtimeconfig.json
+/home/edgar/RiderProjects/Task/one/bin/Debug/net5.0/one.runtimeconfig.dev.json
+/home/edgar/RiderProjects/Task/one/bin/Debug/net5.0/one.dll
+/home/edgar/RiderProjects/Task/one/bin/Debug/net5.0/ref/one.dll
+/home/edgar/RiderProjects/Task/one/bin/Debug/net5.0/one.pdb
+/home/edgar/RiderProjects/Task/one/obj/Debug/net5.0/one.csproj.AssemblyReference.cache
+/home/edgar/RiderProjects/Task/one/obj/Debug/net5.0/one.GeneratedMSBuildEditorConfig.editorconfig
+/home/edgar/RiderProjects/Task/one/obj/Debug/net5.0/one.AssemblyInfoInputs.cache
+/home/edgar/RiderProjects/Task/one/obj/Debug/net5.0/one.AssemblyInfo.cs
+/home/edgar/RiderProjects/Task/one/obj/Debug/net5.0/one.csproj.CoreCompileInputs.cache
+/home/edgar/RiderProjects/Task/one/obj/Debug/net5.0/one.dll
+/home/edgar/RiderProjects/Task/one/obj/Debug/net5.0/ref/one.dll
+/home/edgar/RiderProjects/Task/one/obj/Debug/net5.0/one.pdb
+/home/edgar/RiderProjects/Task/one/obj/Debug/net5.0/one.genruntimeconfig.cache

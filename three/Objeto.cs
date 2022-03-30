@@ -28,16 +28,10 @@ namespace three
             return new Objeto(objeto.nombre, a);
         }
 
-        public string Nombre
-        {
-            get => nombre;
-            set => nombre = value;
-        }
 
-        public int Costo
+        public string getNombre()
         {
-            get => costo;
-            set => costo = value;
+            return nombre;
         }
     }
 }

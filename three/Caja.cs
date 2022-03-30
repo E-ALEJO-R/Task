@@ -103,7 +103,7 @@ namespace three
             {
                 for (int i = 0; i < caja.nroObj; i++)
                 {
-                    if (esPalindroma(caja.objetos[i].Nombre))
+                    if (esPalindroma(caja.objetos[i].getNombre()))
                     {
                         caja.objetos[i].mostrar();
                     }
@@ -123,28 +123,9 @@ namespace three
             return false;
         }
 
-        public string Color
+        public void setObjetos(Objeto[] objetos)
         {
-            get => color;
-            set => color = value;
-        }
-
-        public string Estado
-        {
-            get => estado;
-            set => estado = value;
-        }
-
-        public int NroObj
-        {
-            get => nroObj;
-            set => nroObj = value;
-        }
-
-        public Objeto[] Objetos
-        {
-            get => objetos;
-            set => objetos = value;
+            this.objetos = objetos;
         }
     }
 }

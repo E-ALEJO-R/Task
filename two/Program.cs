@@ -27,7 +27,7 @@ namespace two
             parrafo1.mostrar(0);
             
             // c)
-            Console.WriteLine("\n▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ b) ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓");
+            Console.WriteLine("\n▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ c) ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓");
             Console.WriteLine("¿parrafo 1 contiene texto? " +  (parrafo1 ? "True" : "False"));
             Console.WriteLine("¿parrafo 2 contiene texto? " +  (parrafo1 ? "True" : "False"));
 

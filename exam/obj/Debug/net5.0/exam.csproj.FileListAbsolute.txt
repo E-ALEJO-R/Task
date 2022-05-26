@@ -1,0 +1,16 @@
+/home/edgar/RiderProjects/Task/exam/bin/Debug/net5.0/exam
+/home/edgar/RiderProjects/Task/exam/bin/Debug/net5.0/exam.deps.json
+/home/edgar/RiderProjects/Task/exam/bin/Debug/net5.0/exam.runtimeconfig.json
+/home/edgar/RiderProjects/Task/exam/bin/Debug/net5.0/exam.runtimeconfig.dev.json
+/home/edgar/RiderProjects/Task/exam/bin/Debug/net5.0/exam.dll
+/home/edgar/RiderProjects/Task/exam/bin/Debug/net5.0/ref/exam.dll
+/home/edgar/RiderProjects/Task/exam/bin/Debug/net5.0/exam.pdb
+/home/edgar/RiderProjects/Task/exam/obj/Debug/net5.0/exam.csproj.AssemblyReference.cache
+/home/edgar/RiderProjects/Task/exam/obj/Debug/net5.0/exam.GeneratedMSBuildEditorConfig.editorconfig
+/home/edgar/RiderProjects/Task/exam/obj/Debug/net5.0/exam.AssemblyInfoInputs.cache
+/home/edgar/RiderProjects/Task/exam/obj/Debug/net5.0/exam.AssemblyInfo.cs
+/home/edgar/RiderProjects/Task/exam/obj/Debug/net5.0/exam.csproj.CoreCompileInputs.cache
+/home/edgar/RiderProjects/Task/exam/obj/Debug/net5.0/exam.dll
+/home/edgar/RiderProjects/Task/exam/obj/Debug/net5.0/ref/exam.dll
+/home/edgar/RiderProjects/Task/exam/obj/Debug/net5.0/exam.pdb
+/home/edgar/RiderProjects/Task/exam/obj/Debug/net5.0/exam.genruntimeconfig.cache

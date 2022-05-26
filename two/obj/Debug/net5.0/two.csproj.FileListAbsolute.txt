@@ -1,0 +1,16 @@
+/home/edgar/RiderProjects/Task/two/bin/Debug/net5.0/two
+/home/edgar/RiderProjects/Task/two/bin/Debug/net5.0/two.deps.json
+/home/edgar/RiderProjects/Task/two/bin/Debug/net5.0/two.runtimeconfig.json
+/home/edgar/RiderProjects/Task/two/bin/Debug/net5.0/two.runtimeconfig.dev.json
+/home/edgar/RiderProjects/Task/two/bin/Debug/net5.0/two.dll
+/home/edgar/RiderProjects/Task/two/bin/Debug/net5.0/ref/two.dll
+/home/edgar/RiderProjects/Task/two/bin/Debug/net5.0/two.pdb
+/home/edgar/RiderProjects/Task/two/obj/Debug/net5.0/two.csproj.AssemblyReference.cache
+/home/edgar/RiderProjects/Task/two/obj/Debug/net5.0/two.GeneratedMSBuildEditorConfig.editorconfig
+/home/edgar/RiderProjects/Task/two/obj/Debug/net5.0/two.AssemblyInfoInputs.cache
+/home/edgar/RiderProjects/Task/two/obj/Debug/net5.0/two.AssemblyInfo.cs
+/home/edgar/RiderProjects/Task/two/obj/Debug/net5.0/two.csproj.CoreCompileInputs.cache
+/home/edgar/RiderProjects/Task/two/obj/Debug/net5.0/two.dll
+/home/edgar/RiderProjects/Task/two/obj/Debug/net5.0/ref/two.dll
+/home/edgar/RiderProjects/Task/two/obj/Debug/net5.0/two.pdb
+/home/edgar/RiderProjects/Task/two/obj/Debug/net5.0/two.genruntimeconfig.cache
